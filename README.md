@@ -9,4 +9,6 @@ Gutter - вертикальная полоска слева от редакто�
 Tool windows-  это дополнительные панели (внизу и по бокам), которые открываются для конкретных задач: управление проектом, поиск, отладка, терминал и тп.
 Status bar - самая нижняя строка. Показывает состояние проекта, кодировку файла, текущий интерпретатор Python и другую служебную информацию
 5. <img width="1919" height="1036" alt="image" src="https://github.com/user-attachments/assets/2fbb53b5-8b0f-48f3-b833-e296057b276a" />
+6.
+7. <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/39810aae-4d89-491b-b4f1-e92fb4b36819" />
 
