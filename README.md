@@ -1,9 +1,6 @@
 # Practical_Work
-1.
-
 2. <img width="510" height="197" alt="image" src="https://github.com/user-attachments/assets/7d131145-fbe9-439e-b647-c3dd7db4073e" />
 3.
-
 4. Main menu - верхняя строка с пунктами File, Edit, View и т.д. Через неё выполняются все основные команды
 Navigation bar - полоска под меню, показывает путь к текущему файлу
 Project tool window - левая панель, где отображается дерево всех файлов и папок проекта
