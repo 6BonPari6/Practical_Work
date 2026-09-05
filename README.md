@@ -1,8 +1,7 @@
 # Practical_Work
 1.
 
-2.
-<img width="510" height="197" alt="image" src="https://github.com/user-attachments/assets/7d131145-fbe9-439e-b647-c3dd7db4073e" />
+2. <img width="510" height="197" alt="image" src="https://github.com/user-attachments/assets/7d131145-fbe9-439e-b647-c3dd7db4073e" />
 3.
 
 4. Main menu - верхняя строка с пунктами File, Edit, View и т.д. Через неё выполняются все основные команды
@@ -12,3 +11,5 @@ Editor - центральная область, где пишется код. В
 Gutter - вертикальная полоска слева от редактора. На ней видны номера строк, точки останова для отладки и индикация изменений в Git
 Tool windows-  это дополнительные панели (внизу и по бокам), которые открываются для конкретных задач: управление проектом, поиск, отладка, терминал и тп.
 Status bar - самая нижняя строка. Показывает состояние проекта, кодировку файла, текущий интерпретатор Python и другую служебную информацию
+5. <img width="1919" height="1036" alt="image" src="https://github.com/user-attachments/assets/2fbb53b5-8b0f-48f3-b833-e296057b276a" />
+
