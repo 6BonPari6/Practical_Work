@@ -1,6 +1,6 @@
 # Practical_Work
 1. - 
-2. <img width="510" height="197" alt="image" src="https://github.com/user-attachments/assets/7d131145-fbe9-439e-b647-c3dd7db4073e" />
+2. <img width="458" height="263" alt="image" src="https://github.com/user-attachments/assets/ab4effca-d5cf-40ee-a444-005a502fb44b" />
 3. -
 4. Main menu - верхняя строка с пунктами File, Edit, View и тд. Через неё выполняются все основные команды
 Navigation bar - полоска под меню, показывает путь к текущему файлу
