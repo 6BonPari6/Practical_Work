@@ -1,0 +1,9 @@
+# 1. 
+shopping_list = ["яблоки", "молоко", "хлеб", "яйца"]
+# 2. 
+shopping_list.append("масло")
+# 3. 
+print("Список после добавления:", shopping_list)
+# 4.
+unique_items = set(shopping_list)
+print("Множество:", unique_items)
