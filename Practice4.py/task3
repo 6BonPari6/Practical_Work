@@ -1,0 +1,9 @@
+num = int(input())
+thousand = num // 1000
+hundred = (num // 100) % 10
+ten = (num // 10) % 10
+unit = num % 10
+print(f"Цифра в позиции тысяч равна {thousand}")
+print(f"Цифра в позиции сотен равна {hundred}")
+print(f"Цифра в позиции десятков равна {ten}")
+print(f"Цифра в позиции единиц равна {unit}")
