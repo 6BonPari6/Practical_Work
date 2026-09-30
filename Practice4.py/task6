@@ -1,0 +1,6 @@
+import math
+
+x = float(input("градусы"))
+x = math.radians(x)
+x = math.sin(x) + math.cos(x) + (math.tan(x))**2
+print(x)
