@@ -1,4 +1,3 @@
-# Practical_Work
 1. - 
 2. <img width="458" height="263" alt="image" src="https://github.com/user-attachments/assets/ab4effca-d5cf-40ee-a444-005a502fb44b" />
 3. -
