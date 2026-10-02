@@ -1,3 +1,6 @@
+https://www.figma.com/board/7Vr9W2qLnCWJnQmmTBVyLP/1?t=oCgiYhO3FwyiDp9r-1
+https://www.figma.com/board/xj0DvhuiIH8vC6vej0ui6r/2?t=oCgiYhO3FwyiDp9r-1
+https://www.figma.com/board/8XPIPxJEidkyojFsLuTgjo/3?t=oCgiYhO3FwyiDp9r-1
 
 
 name = input("Введите имя: ")
