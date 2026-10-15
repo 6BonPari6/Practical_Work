@@ -1,0 +1,18 @@
+temperature = float(input("Температура: "))
+pressure = int(input("Давление: "))
+pulse = int(input("Пульс: "))
+
+temp_bad = temperature < 35 or temperature > 38
+press_bad = pressure < 105 or pressure > 140
+pulse_bad = pulse < 55 or pulse > 110
+
+temp_ok = 36 <= temperature <= 37
+press_ok = 110 <= pressure <= 130
+pulse_ok = 60 <= pulse <= 100
+
+if temp_bad or press_bad or pulse_bad:
+    print("Требуется врач")
+elif temp_ok and press_ok and pulse_ok:
+    print("Нормальное состояние")
+else:
+    print("Легкое недомогание")
