@@ -1,0 +1,13 @@
+def calc():
+
+    length = float(input("Какое расстояние (км)? "))
+    fuel_consumption = float(input("Сколько литров на 100 км ест машина? "))
+
+    fuel_price = 49.5
+    total_fuel = length * (fuel_consumption / 100)
+    total_cost = total_fuel * fuel_price
+
+    print(f"Нужно бензина: {total_fuel:.2f} л")
+    print(f"Стоимость: {total_cost:.2f} руб.")
+
+calc()
