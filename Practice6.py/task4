@@ -1,0 +1,12 @@
+a = int(input("Столбец 1: "))
+b = int(input("Строка 1: "))
+c = int(input("Столбец 2: "))
+d = int(input("Строка 2: "))
+
+razn_stolb = a - c
+razn_strok = b - d
+
+if razn_stolb == razn_strok or razn_stolb == -razn_strok:
+    print("YES")
+else:
+    print("NO")
