@@ -1,0 +1,18 @@
+pocket = int(input("Номер кармана: "))
+
+red_group = 1 <= pocket <= 10 or 19 <= pocket <= 28
+black_group = 11 <= pocket <= 18 or 29 <= pocket <= 36
+is_odd = pocket % 2 == 1
+
+if pocket == 0:
+    print("зеленый")
+elif red_group and is_odd:
+    print("красный")
+elif black_group and is_odd:
+    print("черный")
+elif red_group and not is_odd:
+    print("черный")
+elif black_group and not is_odd:
+    print("красный")
+else:
+    print("ошибка ввода")
