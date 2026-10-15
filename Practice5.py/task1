@@ -1,0 +1,7 @@
+money = float(input("Введите ваш годовой доход: "))
+tax = money * 0.13
+final_money = money - tax
+
+print(f"Общая сумма дохода: {money:,.2f} руб.")
+print(f"Сумма рассчитанного налога: {tax:,.2f} руб.")
+print(f"Сумма «на руки» после вычета налога: {final_money:,.2f} руб.")
